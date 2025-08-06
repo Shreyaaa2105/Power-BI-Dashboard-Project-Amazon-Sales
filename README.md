@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-Project-Amazon-Sales
+
 # Power BI Dashboard – Sales Analytics Report
 
 ## Project Overview
